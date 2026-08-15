@@ -1,40 +1,171 @@
-<h1 align="center">Hi 👋, I'm AkashSau-cont</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Akash Sahu</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsahu-cont&label=Profile%20views&color=0e75b6&style=flat" alt="akashsahu-cont" /> </p>
+<h3 align="center">B.Tech Data Science Student | Software Developer | AI/ML Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashsahu-cont" alt="akashsahu-cont" /></a> </p>
-
-- 🔭 I’m currently working on **C programming projects and learning software development**
-
-- 🌱 I’m currently learning **Python, C, Data Structures & Algorithms, and Data Science**
-
-- 👯 I’m looking to collaborate on **AI/ML and Data Science projects**
-
-- 🤝 I’m looking for help with **Data Structures, Algorithms and real-world projects**
-
-- 👨‍💻 All of my projects are available at [k%20Your%20Laptop%20Score%20Pro%203.0.html](k%20Your%20Laptop%20Score%20Pro%203.0.html)
-
-- 💬 Ask me about **C, Python, Data Science and beginner-level programming**
-
-- 📫 How to reach me **awashgupta07@gmail.com**
-
-- ⚡ Fun fact **I love learning new technologies and building projects 🚀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akash-sahu-ba123a369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-sahu-ba123a369" height="30" width="40" /></a>
-<a href="https://instagram.com/akash_editz02_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash_editz02_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akash sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akash sahu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akashsahu-cont" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akashsahu-cont" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/akash sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="akash sahu" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/akashsahu-cont">
+    <img src="https://komarev.com/ghpvc/?username=akashsahu-cont&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/akashsahu-cont">
+    <img src="https://img.shields.io/github/followers/akashsahu-cont?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/akashsahu-cont?tab=repositories">
+    <img src="https://img.shields.io/github/stars/akashsahu-cont?label=Stars&style=for-the-badge" alt="GitHub Stars"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashsahu-cont&show_icons=true&locale=en&layout=compact" alt="akashsahu-cont" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashsahu-cont&show_icons=true&locale=en" alt="akashsahu-cont" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashsahu-cont&" alt="akashsahu-cont" /></p>
+* 🎓 B.Tech Data Science student
+* 💻 Interested in Software Development and Data Science
+* 🌱 Currently learning **C, Python, DSA, Data Science and AI/ML**
+* 🚀 Building projects to improve my programming and problem-solving skills
+* 🤝 Interested in collaborating on **AI/ML, Data Science and Software Development projects**
+* 🎯 Goal: Become a skilled Software/Data professional and build real-world solutions
+* ⚡ I enjoy learning new technologies and turning ideas into projects
+
+---
+
+## 🧠 Currently Learning
+
+```text
+C Programming          ███████████████░░░░░
+Python                 ████████████░░░░░░░░
+Data Structures        ██████████░░░░░░░░░░
+Algorithms             ████████░░░░░░░░░░░░
+Data Science           ███████░░░░░░░░░░░░░
+AI / ML                █████░░░░░░░░░░░░░░░
+Web Development        ███████░░░░░░░░░░░░░
+```
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,nodejs,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashsahu-cont&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsahu-cont&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akashsahu-cont&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashsahu-cont&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akashsahu-cont&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Profile Trophy"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+> Add your best repositories below. Replace `YOUR-REPOSITORY-NAME` with your actual GitHub repository names.
+
+<p align="center">
+
+<a href="https://github.com/akashsahu-cont/YOUR-REPOSITORY-NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashsahu-cont&repo=YOUR-REPOSITORY-NAME&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/akashsahu-cont/YOUR-SECOND-REPOSITORY">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashsahu-cont&repo=YOUR-SECOND-REPOSITORY&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
+---
+
+## 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/akashsahu-cont">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/akashsahu">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerearth.com/akashsahu">
+  <img src="https://img.shields.io/badge/HackerEarth-Profile-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/akash-sahu-ba123a369">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="https://instagram.com/akash_editz02_">
+  <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+</a>
+
+<a href="mailto:awashgupta07@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashsahu-cont&theme=tokyonight" width="95%"/>
+
+</p>
+
+---
+
+## 🚀 My GitHub Journey
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashsahu-cont&show_icons=true&hide_border=true&theme=tokyonight&hide_title=true&hide=issues" />
+</p>
+
+<p align="center">
+  <b>💡 Code • Learn • Build • Repeat 🚀</b>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my profile! ⭐ Feel free to explore my repositories.</i>
+</p>
